@@ -27,11 +27,7 @@ How to Run
 python snake_game.py
 ```
 
-## 📸 Screenshot
-<img width="625" height="350" alt="reticulated-python-snake-looking-at-the-camera-isolated-on-white-ai-generated-photo" src="https://github.com/user-attachments/assets/08ad5478-fe94-4f14-a09b-2d6c91c0ba47" />
 
-Add a screenshot of your game here.
-
-## 👨‍💻 Author
+Author
 
 Mohsin Ali
